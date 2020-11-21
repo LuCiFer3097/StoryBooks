@@ -1,1 +1,1 @@
-# A simple Node JS CRUD application for stories with Google Auth login Feature.
+# A simple Node JS CRUD application for stories with Google OAuth login Feature.
